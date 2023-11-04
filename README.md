@@ -1,2 +1,2 @@
-# gsbakery
+# Gingersnaps Bakery
 Gingersnaps Bakery
