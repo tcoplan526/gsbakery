@@ -1,4 +1,4 @@
-baseURL       = "http://gingersnapsbakerynh.com/"
+baseURL       = "https://gingersnapsbakerynh.com/"
 languageCode  = "en-us"
 title         = "Gingersnaps Bakery NH"
 theme         = "roxo-hugo"
