@@ -1,7 +1,7 @@
 baseURL       = "http://gingersnapsbakerynh.com/"
 languageCode  = "en-us"
 title         = "Gingersnaps Bakery NH"
-theme         = "temp"
+theme         = "roxo-hugo"
 summarylength = 25
 
 # Site Menus
