@@ -1,7 +1,7 @@
-baseURL       = "http://example.org/"
+baseURL       = "http://gingersnapsbakerynh.com/"
 languageCode  = "en-us"
 title         = "Gingersnaps Bakery NH"
-theme         = "roxo-hugo"
+theme         = "temp"
 summarylength = 25
 
 # Site Menus
